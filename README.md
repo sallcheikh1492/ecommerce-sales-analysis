@@ -1,10 +1,10 @@
 # Analyse des Ventes E-commerce — Projet BI Complet
 
 ## 🔗 Liens
-[![Dashboard](https://img.shields.io/badge/Dashboard-Live-brightgreen)](https://kheuch1492.github.io/ecommerce-sales-analysis/reports/dashboard.html)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/kheuch1492/ecommerce-sales-analysis)
+[![Dashboard](https://img.shields.io/badge/Dashboard-Live-brightgreen)](https://sallcheikh1492.github.io/ecommerce-sales-analysis/reports/dashboard.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/sallcheikh1492/ecommerce-sales-analysis)
 
-👉 **[Dashboard Interactif en ligne](https://kheuch1492.github.io/ecommerce-sales-analysis/reports/dashboard.html)**
+👉 **[Dashboard Interactif en ligne](https://sallcheikh1492.github.io/ecommerce-sales-analysis/reports/dashboard.html)**
 
 > Projet Business Intelligence démontrant des compétences en **SQL**, **Python**, **Analyse RFM** et **Power BI**,
 > construit sur le dataset UCI E-commerce (Dec 2010 – Dec 2011).
